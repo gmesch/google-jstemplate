@@ -158,7 +158,7 @@ function arrayClear(array) {
 
 
 /**
- * Prebinds "this" within the given method to an object, but ignores all 
+ * Prebinds "this" within the given method to an object, but ignores all
  * arguments passed to the resulting function.
  * I.e. var_args are all the arguments that method is invoked with when
  * invoking the bound function.
